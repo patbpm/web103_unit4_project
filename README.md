@@ -35,7 +35,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://i.imgur.com/ChuyMGP.gif" alt="Video Walkthrough" width="500" />
+<img src="https://cdn.loom.com/sessions/thumbnails/bc0d29eae40346baaf1e9f30cbe1acd3-f41c8ce9cfdf39b9-full-play.gif" alt="Video Walkthrough" width="500" />
+<div>
+    <a href="https://www.loom.com/share/bc0d29eae40346baaf1e9f30cbe1acd3">
+      <p>Loom Message - 17 October 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/bc0d29eae40346baaf1e9f30cbe1acd3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bc0d29eae40346baaf1e9f30cbe1acd3-f41c8ce9cfdf39b9-full-play.gif">
+    </a>
+  </div>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
